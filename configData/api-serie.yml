@@ -1,9 +1,6 @@
 server:
-  port: ${PORT:${SERVER_PORT:0}}
+  port: 8082
 spring:
-  application:
-    name: api-catalog
-
   rabbitmq:
     username: guest
     password: guest
@@ -12,6 +9,9 @@ spring:
   zipkin:
     baseUrl: http://localhost:9411/
 
+
+  application:
+    name: api-serie
   mongodb:
     embedded:
       version: 4.0.2
@@ -19,8 +19,8 @@ spring:
     mongodb:
       username: usr
       password: pwdmongo
-      database: mongo-catalog
-      port: 27018
+      database: mongo-serie
+      port: 27017
       host: localhost
 
 
@@ -49,9 +49,10 @@ resilience4j.circuitbreaker:
       waitDurationInOpenState: 50s
       failureRateThreshold: 50
       eventConsumerBufferSize: 10
+
 eureka:
-   client:
-      registerWithEureka: true
-      fetchRegistry: true
-      serviceURL:
-         defaultZone: http://localhost:8761/eureka
+  client:
+    registerWithEureka: true
+    fetchRegistry: true
+    serviceURL:
+      defaultZone: http://localhost:8761/eureka
