@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="daff8f5d-e223-4de8-9254-889d735653fb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../api-catalog/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-catalog/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../api-catalog/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-catalog/src/main/java/com/dh/catalog/ApiCatalogApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../api-catalog/src/main/java/com/dh/catalog/ApiCatalogApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-catalog/src/main/java/com/dh/catalog/client/MovieServiceClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../api-catalog/src/main/java/com/dh/catalog/client/MovieServiceClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-catalog/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-movie/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../api-movie/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-movie/src/main/java/com/dh/movie/ApiMovieApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../api-movie/src/main/java/com/dh/movie/ApiMovieApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-movie/src/main/java/com/dh/movie/controller/MovieController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../api-movie/src/main/java/com/dh/movie/controller/MovieController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-movie/src/main/java/com/dh/movie/repository/MovieRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../api-movie/src/main/java/com/dh/movie/repository/MovieRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-movie/src/main/java/com/dh/movie/service/MovieService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../api-movie/src/main/java/com/dh/movie/service/MovieService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-movie/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../api-movie/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HO9mZNyXhidOYKH1vDLqAYkI7D" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Tati/Documents/CTD/Segundo Año/2doAño/BackI}/Examen/api-movie/pom.xml"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="daff8f5d-e223-4de8-9254-889d735653fb" name="Changes" comment="" />
+      <created>1668145422722</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668145422722</updated>
+      <workItem from="1668145424473" duration="750000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
